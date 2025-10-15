@@ -274,3 +274,8 @@ h1 {
 }
 
 ```
+# Output
+<img width="1887" height="906" alt="image" src="https://github.com/user-attachments/assets/4fbfd688-6d97-45fa-90eb-add2445f03b2" />
+
+
+
